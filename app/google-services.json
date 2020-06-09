@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "967565885859",
+    "firebase_url": "https://bulls-and-cows-f1a92.firebaseio.com",
+    "project_id": "bulls-and-cows-f1a92",
+    "storage_bucket": "bulls-and-cows-f1a92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967565885859:android:5019178a923e4cd5e61a16",
+        "android_client_info": {
+          "package_name": "com.example.bullsandcows"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967565885859-s9orgtrsmvnq9a2smiogt81ehoomi0nv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bullsandcows",
+            "certificate_hash": "5456d60086f764732f000642f391744ccde5daed"
+          }
+        },
+        {
+          "client_id": "967565885859-k2s6bgp0o1hsb8icp6n8garp6fug8pmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw4AgwHyaLK5lyPrDayYu6bcFdDpev0fQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967565885859-k2s6bgp0o1hsb8icp6n8garp6fug8pmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
